@@ -1,3 +1,12 @@
+#intro {
+  min-height: 10vh;
+
+  background-image: url("/Assets/background/Background_Intro.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 /* PROJECTS */
 
 #projects {
